@@ -1,3 +1,7 @@
+"""
+The Gymnasium API-compliant environment for the agent
+"""
+
 import gymnasium as gym
 from gymnasium import spaces
 import numpy as np

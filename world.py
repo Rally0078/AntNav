@@ -1,6 +1,8 @@
+"""
+The PyBullet World
+"""
 import pybullet as p
 import pybullet_data
-import numpy as np
 
 class AntWorld:
     def __init__(self, render=True):

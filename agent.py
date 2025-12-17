@@ -1,3 +1,6 @@
+"""
+The Ant Agent
+"""
 import numpy as np
 
 class AntAgent:
